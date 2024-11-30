@@ -1,3 +1,4 @@
+You need is OCLP to path WIFI:https://github.com/laobamac/OCLP-Mod
 Add the following kexts to the kexts folder in the specified order:
 
 IOSkywalkFamily.kext
@@ -23,3 +24,4 @@ Click Post-Install Root Patch and then Start Root Patching.
 After the root patching is complete, restart your computer again. At this point, Wi-Fi should work directly without needing HeliPort.
 
 In addition, Bluetooth is not working properly on my computer. I have also uploaded the Bluetooth drivers.
+Only put them in plist flie and rebot your computer.
