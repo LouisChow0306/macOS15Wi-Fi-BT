@@ -1,3 +1,4 @@
+First of all thank for Win10Q,and I translate it to English 
 You need is OCLP to path WIFI:https://github.com/laobamac/OCLP-Mod
 Add the following kexts to the kexts folder in the specified order:
 
